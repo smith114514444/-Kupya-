@@ -1,3 +1,5 @@
+[![English](https://img.shields.io/badge/English-blue.svg)](README.en.md) [![中文](https://img.shields.io/badge/中文-red.svg)](README.md)
+
 # 🐾 Kupya · 库皮亚桌宠  
 *来自《恶魔连结》的桌面小天使，为你带来温暖陪伴*
 
@@ -7,7 +9,7 @@
 > 原项目发布信息、QQ群、反馈渠道等请见下方说明。  
 > 若原作者要求删除，请联系我。
 
-[![Version](https://img.shields.io/badge/version-0.1.3.1-blue)](https://github.com/yourname/Kupya)
+[![Version](https://img.shields.io/badge/version-0.1.3.2-blue)](https://github.com/yourname/Kupya)
 [![Platform](https://img.shields.io/badge/platform-Windows-0078d7)](https://www.microsoft.com/windows)
 [![License](https://img.shields.io/badge/license-CC%20BY--NC--ND%204.0-lightgrey)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
@@ -30,11 +32,11 @@
   *鼠标侧键 = 旋转贴纸* （自定义按键即将补全）
 
 - 🎭 **好感度剧情（开发中）**  
-  当前版本（0.1.3.1）为好感度对话封锁版本。完整对话版暂不外发，因为剧情较敏感，需内部打磨。  
+  当前版本（0.1.3.2）为好感度对话封锁版本。完整对话版暂不外发，因为剧情较敏感，需内部打磨。  
   欢迎加入内群品尝完整版，并提供角色设定反馈！  
 
 - 🛠️ **完全开源 · Godot 架构**  
-  基于 Godot 引擎开发，代码结构混乱，我就不信有人能二次创作或学习桌面宠物实现逻辑(千万别学，小心变成屎山大王)。
+  基于 Godot 引擎开发，代码结构混乱，我就不信有人能二次创作或学习桌面宠物实现逻辑（千万别学，小心变成屎山大王）。
 
 ---
 
