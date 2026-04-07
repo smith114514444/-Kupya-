@@ -1,11 +1,15 @@
 # 🐾 Kupya · 库皮亚桌宠  
 *来自《恶魔连结》的桌面小精灵，用 Godot 为你带来温暖陪伴*
 
+> 📌 **转载声明**  
+> 本仓库为个人转载/镜像，**并非原作者发布**。  
+> 所有权利归原作者 **GG!bogey / 妙哈音** 所有。  
+> 原项目发布信息、QQ群、反馈渠道等请见下方说明。  
+> 若原作者要求删除，请联系我。
+
 [![Version](https://img.shields.io/badge/version-0.1.3.1-blue)](https://github.com/yourname/Kupya)
 [![Platform](https://img.shields.io/badge/platform-Windows-0078d7)](https://www.microsoft.com/windows)
 [![License](https://img.shields.io/badge/license-Free%20for%20non--commercial-ff69b4)](LICENSE)
-
-![Kupya 桌宠预览](screenshot.png) <!-- 你可以替换成真实的截图链接 -->
 
 > 💖 **本软件完全免费** —— 献给库皮亚及所有给予库皮亚爱的大家。
 
@@ -87,24 +91,25 @@
 
 ---
 
-## 💬 社区与反馈
+## 💬 社区与反馈（原作者渠道）
 
 由于好感度剧情较敏感，**完整对话版**暂不直接公开。  
-如果你对角色设定有见解，或愿意帮助打磨对话以避免“踩雷”，欢迎加入内群：
+如果你对角色设定有见解，或愿意帮助打磨对话以避免“踩雷”，欢迎加入原作者的内群：
 
 > 🐧 **QQ 群：146533142**  
 > 群内有完整版可供品鉴，并可随时提出反馈建议。  
 > *作者对所有提供反馈的网友致以真挚的感谢！*
 
-- 🐛 Bug 反馈：[Issues](../../issues)  
-- ✨ 功能建议：[Discussions](../../discussions)
+- 🐛 Bug 反馈：[Issues](../../issues) （本转载仓库也可代为转达）  
+- ✨ 功能建议：请直接联系原作者
 
 ---
 
 ## 🧡 致谢
 
 - 角色设定与美术灵感来自《恶魔连结》（Devil Connection）  
-- 由 **GG!bogey / 妙哈音** 开发维护  
+- 本软件由 **GG!bogey / 妙哈音** 原创开发维护  
+- 本仓库仅为转载，感谢原作者的辛勤工作  
 - 特别感谢每一位愿意陪伴库皮亚成长的你
 
 ---
@@ -113,11 +118,12 @@
 
 本软件完全免费，仅供个人非商业使用。  
 禁止二次打包售卖或声称原创。  
-具体条款请见 [LICENSE](LICENSE) 文件。
+具体条款请见 [LICENSE](LICENSE) 文件（如有）。
 
 ---
 
 <p align="center">
   <sub>Made with ❤️ and Godot Engine</sub><br>
-  <sub>“库皮亚在屏幕里看着你哦 ~”</sub>
+  <sub>“库皮亚在屏幕里看着你哦 ~”</sub><br>
+  <sub>🔁 本仓库为转载镜像，非官方发布</sub>
 </p>
