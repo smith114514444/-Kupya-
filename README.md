@@ -9,7 +9,7 @@
 
 [![Version](https://img.shields.io/badge/version-0.1.3.1-blue)](https://github.com/yourname/Kupya)
 [![Platform](https://img.shields.io/badge/platform-Windows-0078d7)](https://www.microsoft.com/windows)
-[![License](https://img.shields.io/badge/license-Free%20for%20non--commercial-ff69b4)](LICENSE)
+[![License](https://img.shields.io/badge/license-CC%20BY--NC--ND%204.0-lightgrey)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 > 💖 **本软件完全免费** —— 献给库皮亚及所有给予库皮亚爱的大家。
 
@@ -91,6 +91,16 @@
 
 ---
 
+## 🎨 素材来源声明
+
+本程序中使用的人物立绘、贴图等素材，均提取自游戏 **《恶魔连结》（Devil Connection）** 的解包文件。
+
+- 素材版权归原游戏公司所有。
+- 此处使用**仅供学习交流**，**不用于任何商业用途**。
+- 若侵犯了您的权益，请联系我们（或原作者），将及时处理。
+
+---
+
 ## 💬 社区与反馈（原作者渠道）
 
 由于好感度剧情较敏感，**完整对话版**暂不直接公开。  
@@ -118,7 +128,7 @@
 
 本软件完全免费，仅供个人非商业使用。  
 禁止二次打包售卖或声称原创。  
-具体条款请见 [LICENSE](LICENSE) 文件（如有）。
+本项目采用 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) 许可证，详情见 [LICENSE](LICENSE) 文件。
 
 ---
 
