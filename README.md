@@ -1,4 +1,4 @@
-[![English](https://img.shields.io/badge/English-blue.svg)](README.en.md) [![中文](https://img.shields.io/badge/中文-red.svg)](README.md)
+[![English](https://img.shields.io/badge/English-blue.svg)](README.en.md) [![中文](https://img.shields.io/badge/中文-red.svg)](README.md) [![日本語](https://img.shields.io/badge/日本語-green.svg)](README.ja.md)
 
 # 🐾 Kupya · 库皮亚桌宠  
 *来自《恶魔连结》的桌面小天使，为你带来温暖陪伴*
