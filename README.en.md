@@ -46,7 +46,7 @@
 ## 🖥️ Requirements
 
 - **OS**: Windows 7 / 10 / 11  
-- **No need to install .NET 10 SDK** – just double-click `Kupya.exe` to run.
+- **need to install .NET 10 SDK** – just double-click `Kupya.exe` to run.
 
 ---
 
