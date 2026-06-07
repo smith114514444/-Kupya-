@@ -9,7 +9,7 @@
 > See below for original project info, QQ group, feedback channels.  
 > If the original author requests removal, please contact me.
 
-[![Version](https://img.shields.io/badge/version-0.1.3.2-blue)](https://github.com/yourname/Kupya)
+[![Version](https://img.shields.io/badge/version-0.1.4.2-blue)](https://github.com/yourname/Kupya)
 [![Platform](https://img.shields.io/badge/platform-Windows-0078d7)](https://www.microsoft.com/windows)
 [![License](https://img.shields.io/badge/license-CC%20BY--NC--ND%204.0-lightgrey)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
@@ -31,9 +31,12 @@
   *Mouse wheel = resize sticker*  
   *Mouse side buttons = rotate sticker* (custom key binding coming soon)
 
-- 🎭 **Affection system (in development)**  
-  Current version (0.1.3.2) has affection-based dialogues locked. The full dialogue version is not publicly released yet due to sensitive content.  
-  Join the internal QQ group to try the complete version and provide character feedback!
+- 🎭 **Affection system & character conversations (new in v0.1.4.2)**  
+  Characters now proactively talk to each other — Kupya talks about Dobby, and Dobby talks to himself.  
+  (Previous versions had affection dialogues locked. Full version is no longer completely private; basic dialogues have been gradually opened.)
+
+- 🐕 **Dobby debuts (v0.1.4.0)**  
+  Dobby breaks free and wanders around the desktop. He seems a bit afraid of Kupya and will panic when chased!
 
 - 🛠️ **Open source · Godot architecture**  
   Built with Godot Engine. The code structure is a mess – I doubt anyone can do secondary development or learn desktop pet logic from it (please don’t, or you’ll become the king of spaghetti code).
@@ -42,14 +45,14 @@
 
 ## 🖥️ Requirements
 
-- **OS**: Supports Windows (7 / 10 / 11)  
-- **You need to install .NET 10 SDK** – after that, just double-click `Kupya.exe` to run.
+- **OS**: Windows 7 / 10 / 11  
+- **No need to install .NET 10 SDK** – just double-click `Kupya.exe` to run.
 
 ---
 
 ## 📦 Download & Run
 
-1. Go to the [Releases](../../releases) page and download the latest archive.
+1. Go to the [Releases](../../releases) page and download the latest archive (currently v0.1.4.2).
 2. Extract to any folder (**you must run the program inside the extracted folder** so that video/sticker resources load correctly).
 3. Double-click `Kupya.exe` to start.
 4. Enjoy your time with Kupya 🎉
@@ -65,7 +68,9 @@
 | TV window | Mouse wheel | Adjust volume |
 | Sticker | Mouse wheel | Scale up/down |
 | Sticker | Mouse side buttons | Rotate (custom key binding pending) |
-| Kupya herself | Drag / click | Move around / more interactions coming |
+| Kupya herself | Drag / click | Move / wake her up (may sleep after 10 PM) |
+| Kupya | Drag to right edge | Hides behind screen edge, peeking out |
+| TV / Dobby | Throw off screen | Remove (flying Dobby will return; use dialogue to remove properly) |
 
 ---
 
@@ -80,13 +85,47 @@ Easily add your own content:
 
 ## 🧪 Current Version & Roadmap
 
-**v0.1.3.2**  
-- ✅ Basic movement, TV player, sticker system  
-- ✅ Volume & sticker resizing with mouse wheel  
+### Current Version: **v0.1.4.2** (June 7, 2026)
+
+**New in this version**  
+- 💬 **Character conversations**: Characters initiate dialogue with whoever is in front of them  
+  - One new idle chat from Kupya about Dobby  
+  - Two new self-dialogues from Dobby  
+- ⚠️ **IMPORTANT: Save data must be deleted for this update**  
+  Manually delete `C:\Users\YourUserName\AppData\Roaming\Godot\app_userdata\Kupya\SaveData.json` (or modify fields accordingly). Old saves are incompatible.
+
+**Previous updates**  
+- **v0.1.4.0**  
+  - Dobby roams the desktop and runs away when chased by Kupya  
+  - Option to hide taskbar icon in settings  
+  - New exit method: choose "回避一下" (Step aside) in dialogue → Kupya flies off-screen and closes the software  
+- **v0.1.3.2**  
+  - Pop-up number animation when affection/values change  
+- **v0.1.3.1**  
+  - Affection content notice and invitation to internal QQ group
 
 **Planned**  
 - More affection actions and expressions  
 - Multi-language support  
+- Fix Dobby getting stuck at screen edges, and taskbar icon reappearing after restart
+
+---
+
+## ⚠️ Important Notes
+
+- **v0.1.4.2 requires save deletion** (path above). Future versions will aim for compatibility.
+- From 10 PM to 7 AM, Kupya may fall asleep. Click repeatedly to wake her.
+- Dragging Kupya to the far right edge makes her peek out from behind the screen; she will come out after a period of no mouse activity.
+- Mouse wheel over TV adjusts volume. On stickers: wheel resizes, side buttons rotate (custom key binding TBD).
+- Annoyed by TV or Dobby? Throw them off-screen to remove them (flying Dobby will come back; using the "remove" option in dialogue is recommended).
+
+---
+
+## 🐛 Known Issues
+
+- Dobby sometimes gets stuck at screen edges when fleeing – fix coming next version.
+- Hiding the taskbar icon resets after restarting the software – will be optimized later.
+- In the face positioning editor, after switching animations, click "Reset" before adjusting parameters to avoid coordinate misalignment.
 
 ---
 
@@ -102,7 +141,7 @@ The character sprites, illustrations, and other visual assets used in this progr
 
 ## 💬 Community & Feedback (Original Author's Channels)
 
-Due to the sensitive nature of the affection storyline, the **full dialogue version** is not publicly available.  
+Due to the sensitive nature of the affection storyline, the **full dialogue version** was not initially public. The new version has started to release basic conversations.  
 If you are interested in the character setting or want to help polish the dialogue to avoid "landmines", you are welcome to join the original author's internal QQ group:
 
 > 🐧 **QQ Group: 146533142**  
